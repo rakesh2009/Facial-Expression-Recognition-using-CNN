@@ -34,3 +34,12 @@ c) Normalize & Train_Test Split:
 d) Model building
 
 e) Evaluating the performance of model using plots and displaying the predicted emotions againt the images
+
+
+Dependencies:
+
+Python 3+, jupyter notebbook, Pandas, Numpy, Tensorflow, Keras, Matplotlib
+
+Purpose:
+
+The purpose of this project is to gain insights in a) Pratical implementation of CNN using Tensorflow and keras b) finding the different emotions of images
