@@ -42,4 +42,8 @@ Python 3+, jupyter notebbook, Pandas, Numpy, Tensorflow, Keras, Matplotlib
 
 Purpose:
 
-The purpose of this project is to gain insights in a) Pratical implementation of CNN using Tensorflow and keras b) finding the different emotions of images
+The purpose of this project is to gain insights & help others in 
+
+a) Pratical implementation of CNN using Tensorflow and keras 
+
+b) finding the different emotions of test images using the trained model
