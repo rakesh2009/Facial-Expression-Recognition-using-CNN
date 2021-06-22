@@ -17,7 +17,7 @@ Fer2013.csv contains two columns, "emotion" and "pixels". The "emotion" column c
 
 As a part of this work I performed the following tasks:
 
-a) Prepared a detailed python notebook using convolutional neural network for classifing the images from Fer.csv
+a) Prepared a detailed python notebook using convolutional neural network for classifing the images from **Fer.csv**
 
 b) **Reshape the data:**
 
