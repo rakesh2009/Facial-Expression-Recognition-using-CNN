@@ -50,4 +50,4 @@ a) Pratical implementation of CNN using Tensorflow and keras
 
 b) Finding the different emotions of test images using the trained model
 
-c) How to tune hyperparameters in deep neural network
+c) Tuning of hyperparameters in deep neural network
